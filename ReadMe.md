@@ -1,8 +1,10 @@
 Steps to run the code:
+dowmload all files and keep in one folder then run rough .m file that's all. below are instrucation about gui files how it looks.
 
 Required resources - matlab 
 
 1 - Download the dataset from
+(you dont need to download i have alredy downloades and uploaded in the files.)
 
     https://github.com/friveramariani/Proteomic-Examples/blob/master/OvarianCancerQAQCdataset.mat
 
