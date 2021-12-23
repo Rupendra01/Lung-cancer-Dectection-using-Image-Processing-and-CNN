@@ -1,5 +1,6 @@
 Steps to run the code:
-dowmload all files and keep in one folder then run rough .m file that's all. below are instrucation about gui files how it looks.
+
+ dowmload all files and keep in one folder then run rough .m file that's all. below are instrucation about gui files how it looks.
 
 Required resources - matlab 
 
